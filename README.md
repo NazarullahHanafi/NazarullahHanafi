@@ -165,12 +165,21 @@ final class NazarullahHanafi
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=NazarullahHanafi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=F472B6&text_color=E5E7EB" alt="GitHub stats" />
-  <img height="172" src="https://github-readme-streak-stats.herokuapp.com?user=NazarullahHanafi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=22D3EE" alt="GitHub streak" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazarullahHanafi&theme=tokyonight" alt="Profile details" />
 </p>
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarullahHanafi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NazarullahHanafi&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazarullahHanafi&theme=tokyonight&utcOffset=7" alt="Productive time" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazarullahHanafi&theme=tokyonight" alt="Repos per language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazarullahHanafi&theme=tokyonight" alt="Most commit language" />
+</p>
+
+<p align="center">
+  <img height="172" src="https://github-readme-streak-stats.herokuapp.com?user=NazarullahHanafi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=22D3EE" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -178,7 +187,9 @@ final class NazarullahHanafi
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=NazarullahHanafi&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=6" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/Workflow%20Style-Clean%20%26%20Useful-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Innovation%20Focus-SIMONPR%20%2B%20Archive-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Builder%20Mood-Aurora%20Mode-F472B6?style=for-the-badge" />
 </p>
 
 ---
