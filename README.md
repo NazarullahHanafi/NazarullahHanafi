@@ -1,11 +1,3 @@
-<!--
-  GitHub Profile README untuk NazarullahHanafi
-  Cara pakai:
-  1. Buat repository public bernama: NazarullahHanafi
-  2. Copy isi file ini ke README.md di repository tersebut
-  3. Commit & push, lalu buka https://github.com/NazarullahHanafi
--->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:14B8A6,22:38BDF8,45:6366F1,70:A855F7,100:F472B6&text=Nazarullah%20Hanafi&fontSize=52&fontAlign=50&fontAlignY=36&desc=Digital%20Workflow%20Builder%20%7C%20Laravel%20Developer%20%7C%20Automation%20Enthusiast&descSize=17&descAlignY=58&fontColor=FFFFFF&animation=fadeIn" />
 
 <p align="center">
