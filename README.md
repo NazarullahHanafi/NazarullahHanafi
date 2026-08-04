@@ -6,27 +6,67 @@
   3. Commit & push, lalu buka https://github.com/NazarullahHanafi
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=255&color=0:0EA5E9,45:7C3AED,100:EC4899&text=Nazarullah%20Hanafi&fontSize=50&fontAlign=50&fontAlignY=38&desc=Digital%20Workflow%20Builder%20%7C%20Laravel%20Developer%20%7C%20Automation%20Enthusiast&descSize=16&descAlignY=58&fontColor=FFFFFF&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:14B8A6,22:38BDF8,45:6366F1,70:A855F7,100:F472B6&text=Nazarullah%20Hanafi&fontSize=52&fontAlign=50&fontAlignY=36&desc=Digital%20Workflow%20Builder%20%7C%20Laravel%20Developer%20%7C%20Automation%20Enthusiast&descSize=17&descAlignY=58&fontColor=FFFFFF&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=24&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+SIMONPR+for+smarter+procurement;Connecting+monitoring%2C+archive%2C+chatbot%2C+and+reports;Turning+manual+workflows+into+clean+digital+systems;Membuat+proses+kerja+lebih+cepat%2C+rapi%2C+dan+terukur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=25&pause=850&color=22D3EE&center=true&vCenter=true&width=980&lines=Building+SIMONPR+for+smarter+procurement;Connecting+monitoring%2C+archive%2C+chatbot%2C+reports%2C+and+Telegram;Turning+manual+workflows+into+clean+digital+systems;Membuat+pekerjaan+lebih+cepat%2C+rapi%2C+dan+siap+audit" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/NazarullahHanafi">
-    <img src="https://komarev.com/ghpvc/?username=NazarullahHanafi&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=NazarullahHanafi&label=Profile%20Views&color=06b6d4&style=for-the-badge" alt="Profile views" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Digital%20Support%20System-0ea5e9?style=for-the-badge" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Building%20Useful%20Things-ec4899?style=for-the-badge" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Digital%20Support%20System-14B8A6?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Mode-Aurora%20Builder-A855F7?style=for-the-badge" alt="Mode" />
+  <img src="https://img.shields.io/badge/Status-Building%20Useful%20Things-F472B6?style=for-the-badge" alt="Status" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 👋 Halo, saya Nazarullah Hanafi
+## 🌊 Halo, saya Nazarullah Hanafi
 
-Saya suka membangun sistem digital yang memotong kerja manual, merapikan alur proses, dan membuat data lebih mudah dipantau. Fokus utama saya adalah membangun aplikasi internal berbasis web untuk kebutuhan operasional, support procurement, arsip, monitoring kontrak, laporan, dan otomasi dokumen.
+Saya suka membangun sistem digital yang membuat pekerjaan internal terasa lebih ringan: proses manual dipotong, status pekerjaan lebih transparan, dokumen lebih rapi, dan data lebih mudah diaudit. Fokus saya ada di aplikasi web internal berbasis **Laravel**, otomasi workflow, integrasi API, dashboard, chatbot, dan sistem pendukung operasional.
 
-Saat ini saya banyak bereksperimen dan membangun solusi seperti **SIMONPR / Monitoring PPBJ**, **Sistem Arsip Surat**, **Monitoring Kontrak**, dan **Sistem Keuangan** agar pekerjaan yang sebelumnya tersebar di chat, Excel, dan dokumen manual bisa menjadi satu alur digital yang lebih jelas.
+Saat ini saya banyak membangun solusi seperti **SIMONPR / Monitoring PPBJ**, **Sistem Arsip Surat**, **Monitoring Kontrak**, dan **Sistem Keuangan**. Tujuannya sederhana tapi berdampak: pekerjaan yang sebelumnya tersebar di chat, Excel, folder manual, dan dokumen fisik bisa menjadi satu ekosistem digital yang lebih cepat, bersih, dan enak dipakai.
+
+---
+
+## ✨ Digital Cockpit
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <h3>📦 SIMONPR</h3>
+      <p>Monitoring PR/PPBJ, approval, SPPH, SP, vendor, laporan, dan tracking.</p>
+      <img src="https://img.shields.io/badge/Impact-Transparent-38BDF8?style=for-the-badge" />
+    </td>
+    <td width="25%" align="center">
+      <h3>🗂️ Arsip Surat</h3>
+      <p>Preview lampiran, lokasi rak/tingkat/box, arsip fisik dan digital.</p>
+      <img src="https://img.shields.io/badge/Impact-Audit%20Ready-22C55E?style=for-the-badge" />
+    </td>
+    <td width="25%" align="center">
+      <h3>⏰ Kontrak</h3>
+      <p>Reminder kontrak H-30, H-14, H-7, dan masa kontrak berakhir.</p>
+      <img src="https://img.shields.io/badge/Impact-No%20Miss-F59E0B?style=for-the-badge" />
+    </td>
+    <td width="25%" align="center">
+      <h3>💰 Keuangan</h3>
+      <p>Dashboard anggaran, realisasi, monitoring nilai, dan laporan.</p>
+      <img src="https://img.shields.io/badge/Impact-Measurable-F472B6?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -34,34 +74,44 @@ Saat ini saya banyak bereksperimen dan membangun solusi seperti **SIMONPR / Moni
 
 | Project | Fokus Utama | Dampak |
 |---|---|---|
-| **SIMONPR / Monitoring PPBJ** | Tracking PR/PPBJ, approval, SPPH, SP, vendor, laporan, chatbot, dan integrasi arsip | Mempercepat monitoring pengadaan/support dan membuat status proses lebih transparan |
+| **SIMONPR / Monitoring PPBJ** | Tracking PR/PPBJ, approval, SPPH, SP, vendor, laporan, chatbot, Telegram monitoring, dan integrasi arsip | Mempercepat monitoring pengadaan/support dan membuat status proses lebih transparan |
 | **Sistem Arsip Surat** | Arsip digital & fisik, preview lampiran, lokasi rak/tingkat/box, API arsip | Memudahkan pencarian dokumen dan bukti audit berdasarkan nomor PR/PPBJ |
-| **Monitoring Kontrak** | Reminder kontrak H-30, H-14, H-7, dan habis kontrak | Membantu tim menghindari kontrak terlewat masa berlakunya |
+| **Monitoring Kontrak** | Reminder kontrak sebelum berakhir | Membantu tim menghindari kontrak terlewat masa berlakunya |
 | **Sistem Keuangan** | Anggaran, realisasi, dashboard, dan laporan | Membantu pemantauan keuangan agar lebih cepat dan terukur |
 
 ---
 
-## 🧠 Signature Features
+## 🧩 Signature Features
 
 <table>
   <tr>
     <td width="50%">
       <h3>📊 Real-time Monitoring</h3>
-      <p>Melihat status PR/PPBJ, progress, approval, dan data pendukung dari satu dashboard.</p>
+      <p>Melihat status PR/PPBJ, progress, approval, nilai, vendor, dan data pendukung dari satu dashboard.</p>
     </td>
     <td width="50%">
       <h3>🤖 Chatbot & Chat Tim</h3>
-      <p>Komunikasi cepat antar user, follow-up PR, mention, reaction, notifikasi, dan bantuan informasi sistem.</p>
+      <p>Komunikasi cepat antar user, follow-up PR, mention, reaction, mood, notifikasi, dan bantuan informasi sistem.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>📁 Archive API Integration</h3>
+      <h3>🔗 Archive API Integration</h3>
       <p>Menghubungkan SIMONPR dengan sistem arsip untuk melihat PDF, lampiran, dan lokasi fisik dokumen.</p>
     </td>
     <td width="50%">
       <h3>🧾 Document Automation</h3>
-      <p>Otomasi penomoran SPPH/SP, pembuatan dokumen, laporan Excel, dan kontrol data audit.</p>
+      <p>Otomasi penomoran SPPH/SP, pembuatan dokumen, export Excel, laporan audit, dan kontrol data.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛡️ Owner Monitoring</h3>
+      <p>Owner center, audit log, health check, Telegram command, maintenance mode, dan kontrol akses penting.</p>
+    </td>
+    <td width="50%">
+      <h3>🌱 Human-friendly UX</h3>
+      <p>Mode dark/light, mood login lucu, viewer read-only, search cerdas, dan tampilan yang nyaman untuk user.</p>
     </td>
   </tr>
 </table>
@@ -78,13 +128,13 @@ Saat ini saya banyak bereksperimen dan membangun solusi seperti **SIMONPR / Moni
   <img src="https://img.shields.io/badge/Laravel-Web%20Application-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/API-Integration-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Telegram-Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-Monitoring%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-Deployment-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Cara saya berpikir saat membangun sistem
+## 🧠 Cara saya berpikir saat membangun sistem
 
 ```php
 <?php
@@ -99,6 +149,7 @@ final class NazarullahHanafi
         'Archive API',
         'Automation',
         'Chatbot',
+        'Telegram Bot',
         'Clean Internal Tools',
     ];
 
@@ -114,30 +165,33 @@ final class NazarullahHanafi
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NazarullahHanafi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=NazarullahHanafi&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="172" src="https://github-readme-stats.vercel.app/api?username=NazarullahHanafi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=38BDF8&icon_color=F472B6&text_color=E5E7EB" alt="GitHub stats" />
+  <img height="172" src="https://github-readme-streak-stats.herokuapp.com?user=NazarullahHanafi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F472B6&currStreakLabel=22D3EE" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarullahHanafi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazarullahHanafi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E5E7EB" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NazarullahHanafi&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NazarullahHanafi&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=A855F7&point=F472B6&area_color=14B8A6" alt="Activity graph" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=NazarullahHanafi&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12" alt="GitHub trophies" />
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=NazarullahHanafi&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=6" alt="GitHub trophies" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
 
-- Memperkuat performa dan keamanan aplikasi internal.
-- Membuat integrasi antar sistem lebih rapi melalui API.
-- Menyusun dokumentasi dan proposal inovasi agar solusi digital mudah direplikasi.
-- Mengubah proses manual menjadi alur kerja yang lebih otomatis, transparan, dan siap audit.
+```txt
+01. Strengthening internal web apps
+02. Building safer API integrations
+03. Making procurement tracking more transparent
+04. Connecting digital archive with real physical document location
+05. Improving user experience with automation, chatbot, and monitoring bot
+```
 
 ---
 
@@ -155,7 +209,7 @@ final class NazarullahHanafi
 ---
 
 <p align="center">
-  <b>“Build useful things. Make manual work disappear. Keep it clean, fast, and human.”</b>
+  <b>“Build useful things. Make manual work disappear. Keep it clean, fast, colorful, and human.”</b>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,45:7C3AED,100:EC4899" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:14B8A6,22:38BDF8,45:6366F1,70:A855F7,100:F472B6" />
